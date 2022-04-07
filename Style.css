@@ -1,0 +1,11 @@
+body
+ {background-color:silver; color:blue; outline: red;font: oblique; font-style: italic; text-align: center;}
+
+h1
+{color:blue;  text-align: center; font-family: 'Franklin Gothic Medium'; font-weight: bolder;} 
+
+.email
+{color:blue;   text-align: center; font-family: 'Franklin Gothic Medium'; font-weight: bolder;} 
+
+.phone
+{color:blue;   text-align: center; font-family: 'Franklin Gothic Medium'; font-weight: bolder;} 
